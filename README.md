@@ -1,4 +1,4 @@
-# ta-bulk-testing
+# autopilot-bulk-testing
 This cli helps with bulk tests to the Autopilot infraestructure. It uses csv file fixtures as input and returns a json report if needed.
 
 ## Installing
