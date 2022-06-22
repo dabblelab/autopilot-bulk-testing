@@ -34,7 +34,7 @@
     "csvtojson": "^2.0.8",
     "dotenv": "^8.0.0",
     "esm": "^3.2.22",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "intent-utterance-expander": "^0.0.9",
     "intent-utterance-generator": "^0.0.2",
     "meow": "^5.0.0",
